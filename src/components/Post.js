@@ -8,6 +8,8 @@ const Post = ({ article }) => {
     return (
         <div className="post" >
             <h2 className="title">{blogPostTitle}</h2>
+            <time className='publicationDate'>{publicationDate}</time>
+            <br />
             {headerImage && <img className='headerImage' src={headerImage.fields.file.url} alt={blogPostTitle} title={blogPostTitle}/>}
             <section dangerouslySetInnerHTML={{ __html: postBlogText}} />
         </div>
