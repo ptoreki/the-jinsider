@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/the-jinsider/static/css/main.31d6cfe0.css",
+    "main.js": "/the-jinsider/static/js/main.0e6b2e00.js",
+    "index.html": "/the-jinsider/index.html",
+    "main.0e6b2e00.js.map": "/the-jinsider/static/js/main.0e6b2e00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0e6b2e00.js"
+  ]
+}
